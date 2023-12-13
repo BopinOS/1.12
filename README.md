@@ -1,1 +1,1 @@
-# 1.12
+# Welcome to BopinOS 1.12
